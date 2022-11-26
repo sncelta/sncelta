@@ -1,8 +1,7 @@
 ### <p align="center">SNCELTA</p>
+**Amateur**.
 
-I have no idea what to write here 
-
-TypeScript/JavaScript are my main languages but i experimented with others too
+Languages: Current are JavaScript/TypeScript, used C/C++ and Python before.
 
 discord: ```delta#3012```
  
